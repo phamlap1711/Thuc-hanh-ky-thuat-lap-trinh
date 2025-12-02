@@ -1,0 +1,5 @@
+print("Phạm Tiến Lập")
+print("245752026160071")
+danhsach = input("Nhập chuỗi: ").split()
+danhsach.append("xyz")
+print(danhsach)
