@@ -1,0 +1,7 @@
+print("Phạm Tiến Lập")
+print("245732021610131")
+input_file = open("C:/Users/Tran Van Viet/Documents/4.7.py", encoding="utf-8")
+doc_file = input_file.read()
+input_file.close()
+print ("C:/Users/Tran Van Viet/Documents/4.4.py")
+print(doc_file)
