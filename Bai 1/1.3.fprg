@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.3"/>
+        <attribute name="authors" value="Tran Van Viet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-12-03 11:44:36 PM"/>
+        <attribute name="created" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMTozOTowMiBQTTszNTAx"/>
+        <attribute name="edited" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMTo0NDozNiBQTTsxOzM2MTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n" type="Integer" array="False" size=""/>
+            <for variable="n" start="99" end="1" direction="dec" step="1">
+                <if expression="n==1">
+                    <then>
+                        <output expression="&quot;one bottles&quot;" newline="True"/>
+                    </then>
+                    <else>
+                        <output expression="n &amp; &quot;bottles&quot;" newline="True"/>
+                    </else>
+                </if>
+            </for>
+            <output expression="&quot;Ph&#7841;m Ti&#7871;n L&#7853;p&quot;" newline="True"/>
+            <output expression="&quot;245752021610071&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

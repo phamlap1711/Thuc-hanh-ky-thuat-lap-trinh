@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.1"/>
+        <attribute name="authors" value="Tran Van Viet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-12-03 11:33:56 PM"/>
+        <attribute name="created" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMToyOToyOSBQTTszNTA5"/>
+        <attribute name="edited" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMTozMzo1NiBQTTsxOzM2MTI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;hello,wordl&quot;" newline="True"/>
+            <output expression="&quot;245752021610071-Pham Tien Lap&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

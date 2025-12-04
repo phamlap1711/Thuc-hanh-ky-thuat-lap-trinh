@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="1.2"/>
+        <attribute name="authors" value="Tran Van Viet"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-12-03 11:39:00 PM"/>
+        <attribute name="created" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMTozNDowNiBQTTszNTAw"/>
+        <attribute name="edited" value="VHJhbiBWYW4gVmlldDtERVNLVE9QLUJBSEgwSE47MjAyNS0xMi0wMzsxMTozOTowMCBQTTsxOzM2MDc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="dientichhinhtron" type="Real" array="False" size=""/>
+            <declare name="R" type="Integer" array="False" size=""/>
+            <output expression="&quot;Nh&#7853;p b&#225;n k&#237;nh c&#7911;a d&#432;&#7901;ng tr&#242;n&quot;" newline="True"/>
+            <input variable="R"/>
+            <assign variable="dientichhinhtron" expression="3.14*R^2"/>
+            <output expression="&quot;dientichhinhtron b&#7857;ng&quot; &amp; dientichhinhtron" newline="True"/>
+            <output expression="&quot;sinh vi&#234;n: Ph&#7841;m Ti&#7871;n L&#7853;p&quot;" newline="True"/>
+            <output expression="&quot;245752021610071&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
